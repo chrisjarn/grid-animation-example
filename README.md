@@ -1,6 +1,40 @@
-# Vue 3 + TypeScript + Vite
+# Grid Animation Example
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple Vue 3 + TypeScript project showcasing animated grid layouts. All animation examples are located in `App.vue`.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-# grid-animation-example
+## 🔗 Live Example
+
+[Check it out here](https://velvety-crostata-4383a9.netlify.app/)
+
+## 🚀 Getting Started
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+## 🧩 Tech Stack
+
+- Vue 3 with Motion, NumberFlow, Tailwind
+- TypeScript
+- Vite
+
+## 📁 Project Structure
+
+```bash
+src/
+├── App.vue    # All grid animation examples live here
+├── main.ts    # Entry point
+└── ...
+```
+
+## 🛠️ License
+
+MIT
